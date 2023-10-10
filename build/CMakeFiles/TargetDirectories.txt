@@ -1,0 +1,17 @@
+/home/kali/dlib/build/CMakeFiles/package.dir
+/home/kali/dlib/build/CMakeFiles/package_source.dir
+/home/kali/dlib/build/CMakeFiles/edit_cache.dir
+/home/kali/dlib/build/CMakeFiles/rebuild_cache.dir
+/home/kali/dlib/build/CMakeFiles/list_install_components.dir
+/home/kali/dlib/build/CMakeFiles/install.dir
+/home/kali/dlib/build/CMakeFiles/install/local.dir
+/home/kali/dlib/build/CMakeFiles/install/strip.dir
+/home/kali/dlib/build/dlib/CMakeFiles/dlib.dir
+/home/kali/dlib/build/dlib/CMakeFiles/package.dir
+/home/kali/dlib/build/dlib/CMakeFiles/package_source.dir
+/home/kali/dlib/build/dlib/CMakeFiles/edit_cache.dir
+/home/kali/dlib/build/dlib/CMakeFiles/rebuild_cache.dir
+/home/kali/dlib/build/dlib/CMakeFiles/list_install_components.dir
+/home/kali/dlib/build/dlib/CMakeFiles/install.dir
+/home/kali/dlib/build/dlib/CMakeFiles/install/local.dir
+/home/kali/dlib/build/dlib/CMakeFiles/install/strip.dir
